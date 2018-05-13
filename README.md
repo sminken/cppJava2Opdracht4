@@ -1,4 +1,4 @@
-# cpp Java 2 Opdracht 4: 13 maart 2018
+# Open Universiteit CPP Java programmeur module Java 2 Opdracht 4: 13 maart 2018
 
 Applicatie om kaarten te reserveren bij een theater vanuit een grafische interface met uitwisseling van de data
 in een MySQL database.
